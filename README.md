@@ -1,6 +1,10 @@
 # Repository Template 1
 This template is for web games/apps.
 
+> [!NOTE]
+> If you aren't part of the @Fun-Games-Everyone organisation, this repository dosen't matter.
+
+
 ## Steps
 
 ### First step
